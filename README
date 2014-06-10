@@ -1,0 +1,10 @@
+*****************************************************************************************************************
+SmGa: 		Stock Market/Genetic Algorithm
+Owner:		Joshua Campbell
+Email:	 	jacampb@bgsu.edu
+Date Created:	06/10/2014
+Purpose:	I have not clarly defined the goals yet. This will be updated to be more concise in the future./
+		However it is my intention to implement genetic algorithms in the context of buying an selling
+		stocks. The test data that will be utilized is the NASDAQ historical data that can be found at
+		http://www.nasdaq.com/quotes/historical-quotes.aspx
+*****************************************************************************************************************
